@@ -1,0 +1,6 @@
+------------------ GEProfiler ----------------------
+GE list count: 0
+Texture load count: 0, average NaN per GE list
+Copy GE to memory: 0, average NaN per GE list
+Copy Stencil to memory: 0, average NaN per GE list
+GE list duration: 0ms, average NaNms per GE list, max FPS is NaN
